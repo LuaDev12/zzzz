@@ -1,0 +1,55 @@
+-- ZZZZ Loader
+print("💤 ZZZZ Loader")
+
+-- 2
+print("💤 Loader By LuaDev")
+
+-- NotificationSender
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "💤 ZZZZ Notification";
+	Text = "! ZZZZ Loader";
+	Icon = "rbxthumb://type=Asset&id=71967665601624&w=150&h=150"})
+Duration = 15;
+
+-- NotificationSender
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "💤 ZZZZ Notification";
+	Text = "! ZZZZ Loader Made By LuaDev.";
+	Icon = "rbxthumb://type=Asset&id=71967665601624&w=150&h=150"})
+Duration = 15;
+
+-- Notify
+print("⬇️ Script Is Loading.......")
+
+-- NotificationSender
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "💤 ZZZZ Notification";
+	Text = "⬇️ Script Is Loading Wait......";
+	Icon = "rbxthumb://type=Asset&id=71967665601624&w=150&h=150"})
+Duration = 15;
+
+-- ScriptZZZZLoader
+loadstring(game:HttpGet("https://pastefy.app/FLgzUxuW/raw"))()
+
+--Print2
+print("Script Is Done Loading ✓")
+
+-- Play initial sound
+playSound("2865227039")
+
+-- NotificationSender
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "💤 ZZZZ Notification";
+	Text = "✅ Script Success Fully Loaded.";
+	Icon = "rbxthumb://type=Asset&id=71967665601624&w=150&h=150"})
+Duration = 15;
+
+-- NotificationSender0
+game:GetService("StarterGui"):SetCore("SendNotification", { 
+	Title = "💤 ZZZZ Notification";
+	Text = "❤️ Thanks For Using Our Script.";
+	Icon = "rbxthumb://type=Asset&id=71967665601624&w=150&h=150"})
+Duration = 15;
+
+-- Notify000
+print("✅ Successfully Authenticated")
